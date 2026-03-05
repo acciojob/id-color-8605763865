@@ -1,23 +1,26 @@
-
-
 #yellow{
-  background: yellow;
-	border-style:solid;
-	border-color:greeen;
-  border: 1px;
+	border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  border-left: 1px solid green;
+  border-right: 1px solid green;
+	background:yellow;
+	
 }
-
 #red{
-  background: red;
-	border-style:solid;
-	border-color:black;
-  border: 1px;
+	border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+	background:red;
+	
+}
+#green{
+	border-top: 1px solid yellow;
+  border-bottom: 1px solid yellow;
+  border-left: 1px solid yellow;
+  border-right: 1px solid yellow;
+	background:green;
+	
 }
 
-#green{
-  background: green;
-	border-style:solid;
-	border-color:yellow;
-  border: 1px;
-}
 
